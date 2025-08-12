@@ -38,9 +38,9 @@ This repository contains materials and code from a 2-day workshop conducted at F
    streamlit run prompt_bot.py
    ```
 2. **Populate chromadb**
-```sh
-python populate_db.py
-```
+    ```sh
+    python populate_db.py
+    ```
 3. **Start the RAG Application**
    ```sh
    streamlit run rag_bot.py
