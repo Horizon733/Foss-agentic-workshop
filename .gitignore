@@ -1,0 +1,17 @@
+# Standard Ignores
+venv
+.venv
+__pycache__/
+.DS_Store
+.vscode/
+.history/
+.pytype/
+.pytest_cache/
+.idea/
+
+# AI ignores
+./chroma_db/
+
+
+env.example
+.python-version
